@@ -1,7 +1,8 @@
 ## Java-Swing-Template
 - java的gui开发快速模版，支持jdk14+，maven构建，支持一键打包为exe、dmg等
 - 当前使用的jdk17，理论上jdk14+都支持
-- 采用模块化，支持一键打包生成很小的exe（目前30M，不带依赖也就20M左右）
+- 采用模块化，支持一键打包生成很小的exe（目前20M左右）
+- 采用了idea开发工具一样的主题，支持明亮和暗黑（再也不用担心java的swing丑啦）
 - maven构建
     
 ---
